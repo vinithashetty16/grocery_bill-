@@ -4,7 +4,7 @@
 def generate_bill():
  item = []
 
- print("=======Welcome to the Grocery Billing system=======")
+ print("============Welcome to the Grocery Billing system===========")
 
 # Take input for grocery items 
 while True:
